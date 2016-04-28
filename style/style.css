@@ -1,0 +1,584 @@
+* {margin:0;padding:0}
+
+body{background:url(../images/bg.jpg)
+		
+}
+
+.container{
+		width:1000px;
+		margin:auto;
+		background-color:#EFEEEC;
+		margin-top:20px;
+}
+
+header{
+		overflow:hidden;
+		height: 250px;
+ 		width: 100%
+
+}
+
+header img{
+		width:1000px;
+		height:260px;
+
+}
+
+
+ .sliderborder{
+	border:solid 2px #fff;
+	width:1000PX;
+	height:350px;
+	-webkit-border-radius:0px 0px 15px 15px;
+	border-radius:100px 100px 100px 100px;}
+
+
+menu{
+		background:#DFD000;
+		height:55px;
+		border-radius:15px 15px 0 0;
+		
+}
+menu ul{
+		list-style:none;
+}
+
+menu ul li{
+		float:left;	
+		
+
+}
+
+menu ul li a{
+		text-decoration:none;
+		display:block;
+		
+		padding:0 90px;	
+		line-height:55px;
+		font-size:23px;
+		
+		
+}
+
+menu ul li a:hover{
+		background-color:#FBFF72;
+		text-decoration:underline;
+		-webkit-transition: background 1s linear;
+		-moz-transition: background 1s linear;
+		-ms-transition: background 1s linear;
+		-o-transition: background 1s linear;
+		transition: background 1s linear;
+}
+
+article {
+		width:1000px;
+		overflow:hidden;
+		margin-top:-75px;
+}
+
+article .utama1{
+		margin: 20px 0 0;
+		width:750px;
+		float:left;
+
+
+}
+
+article .utama1 .articleleft{
+		width:200px;	
+}
+
+article .utama1 .articleleft img{
+		width:100%;
+		height:220px;
+		float:left;	
+		margin-left:10px;
+
+
+
+}
+
+article .utama1 .articleright{
+		width: 470px;
+		float:left;
+		margin-left:40px;	
+		margin-bottom:30px;
+
+
+}
+
+article .utama2{
+	margin:20px;
+	float:right;
+	width:200px;
+	padding-top: 10px;
+	}
+	
+article .utama2 H2{
+	text-align:center;
+	padding:5px 0;	}
+	
+article .utama2 .widget{
+	text-align:center;
+	margin-bottom: 30px;
+	}
+	
+article .utama2  .calender{
+	margin-bottom: 30px;
+}
+
+.read { 
+	position: relative;
+   left: -183px;
+    top: 5px;}
+    
+	
+    
+
+.readmore{ 
+    background-color: #0a00ff;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+	margin:10px 0;
+    padding: 5px 20px 5px 40px;
+    text-decoration: none;}
+	
+.back{
+	position: relative;
+	left: -742px;
+     top: 44px;
+}
+	
+	
+.next {
+	position: relative;
+    left: 163px;
+     top: 44px;
+}
+	
+.articleright a:hover {
+	background-color:#ccc;	
+	}	
+	
+.utama3{
+		background-color:#00FFFB;
+		
+		overflow:hidden;
+}	
+	
+.utama3 .tulisanvidio{
+		 float: left;
+  		 padding: 40px 0 40px 200px;
+  		 width: 364px;
+	
+}
+
+.tulisanvidio > h1 {
+    font-size: 32px;
+}
+
+.tulisanvidio > p {
+    font-size: 20px;
+}
+
+.utama3 .vidio {
+	float: right;
+    padding: 40px 167px 40px 0;
+    width: 500px;
+				}
+	
+.psn	{
+		background-color:#EFEEEC;
+		width:1000px;
+		margin:auto;
+		
+}			
+.pesan{
+		width:500px;
+		margin-bottom:13px;
+		padding-left: 7px;
+		
+}
+
+.pesan input {padding:8px;}
+
+
+
+
+
+
+
+/* END INDEX1*/	
+
+
+/*start MENU1*/
+
+
+
+.container1{
+		width:100%;
+		margin:auto;
+		background-color:#fff;
+}
+.container2{
+		width:700px;
+		margin:auto;
+}
+		
+.menumasakan {
+    height: 100px;
+	}
+
+.menumasakan menu1 .menumasakanright {
+		
+		height:30px;
+		float:left;
+}
+
+.menumasakan menu1 .menumasakanright ul{
+		list-style:none;
+}
+
+.menumasakan menu1  .menumasakanright ul li{
+		float:left;	
+}
+
+.menumasakan menu1 .menumasakanright ul li a{
+		text-decoration:none;
+		display:block;
+		padding:0 25px;	
+		line-height:90px;
+		font-size:30px;
+		
+}
+
+.menumasakan menu1 .menumasakanright  ul li a:hover{
+		color:#BDBABA;
+		text-decoration:underline;
+}
+
+
+/* END OF MENU1 Right*/
+
+.menumasakan menu1 .menumasakanleft {
+		
+		height:30px;
+		float:right;
+}
+
+.menumasakan menu1 .menumasakanleft ul{
+		list-style:none;
+}
+
+.menumasakan menu1  .menumasakanleft ul li{
+		float:left;	
+}
+
+.menumasakan menu1 .menumasakanleft ul li a{
+		text-decoration:none;
+		display:block;
+		padding:0 25px;	
+		line-height:90px;
+		font-size:30px;
+		
+}
+
+.menumasakan menu1 .menumasakanleft  ul li a:hover{
+		color:#BDBABA;
+		text-decoration:underline;
+}
+
+.menumasakanlogo img{
+		width:100px;
+		padding: 22px 0 0 20px;
+		height:50px;	
+}
+
+/* END OF MENU1 LEFT*/
+/* END OF MENU1 */
+
+
+.article1 .articlejudul{
+		height:222px;
+		font-size:30px;	
+		line-height:212px;
+		background-color:#00E895;
+		text-align:center;
+		margin:auto;
+		width:100%
+	
+	}
+	
+.article2 {
+		width:100%;	
+		background-color:#fff;
+}
+
+.article2 .articletulisan {
+	width:700px;
+	margin:auto;
+	text-align:center;
+	padding:20px; 
+	}
+
+.article3 {
+	width:100%;
+	background-color:#fff;
+	
+	}
+
+.articlegambar{
+	width:700px;
+	margin:auto;
+	text-align:center;
+	padding:20px; 
+}
+
+.articlegambar img {
+    width:500px;
+	height:430px;
+	
+}
+
+/*ARTICLE BAHAN-BAHAN*/
+
+
+
+.containerbahanutama{
+	background-color:#fff;
+	width:100%;
+	
+}
+.containerbahan{
+		width:700px;
+		margin:auto;
+		
+	
+}
+.informasi{
+		padding-top:40px;
+}
+
+.informasi p{
+	border-bottom: 2px solid #93e0ff;
+    font-size: 16px;
+    letter-spacing: 3px;
+    line-height: 16px;
+    padding-top: 20px;
+	padding-bottom: 12px;
+}
+
+.bahanbahan{
+		padding-top:40px;	
+
+}
+
+.bahanbahan h4{
+		border-bottom: 2px solid #93e0ff;
+    	font-size: 16px;
+   		letter-spacing: 3px;
+    	line-height: 16px;
+    	padding-top: 20px;
+		padding-bottom: 12px;
+}
+
+.bahanbahan p {
+	padding-top:10px;
+	
+	}
+	
+
+.caramembuatnya{
+		padding-top:40px;	
+
+}
+
+.caramembuatnya h4{
+		border-bottom: 2px solid #93e0ff;
+    	font-size: 16px;
+   		letter-spacing: 3px;
+    	line-height: 16px;
+    	padding-top: 45px;
+		padding-bottom: 12px;
+}
+
+.caramembuatnya p {
+	padding-top:10px;
+	
+}
+.caramembuatnya h3{
+		padding:30px 0 50px;
+}
+
+
+.containershared{
+		line-height:50px;
+		width:100%;
+		background-color:#00E895;
+}
+	
+.shared{
+		width:500px;
+		margin:auto;
+		padding-top: 60px;
+}
+
+.shared img{
+		padding: 33px 30px;
+}
+
+/*END OF SHERED*/
+
+.containeremailutama{
+	background-color: #c4edfd;
+    height: 250px;
+	
+	
+}
+
+
+.containeremailutama .containeremail {
+    margin: auto;
+    width: 700px;
+}
+
+.containeremailutama .containeremail h1 {
+	padding:50px 0 20px 80px;
+    font-size: 37px;
+    
+}
+
+
+.containeremailutama .containeremail h3 {
+    font-size: 19px;
+    padding-bottom: 20px;
+    padding-left: 44px;
+}
+
+.containeremailutama .containeremail .text {
+	float: left;
+    height: 50px;
+    width: 520px;
+}
+
+.containeremailutama .containeremail .submit{
+	background-color: #6bc7eb;
+    float: right;
+    height: 53px;
+    left: 51px;
+    position: relative;
+    top: -55px;
+    width: 123px;
+	border: medium none;
+	
+	
+	}
+	
+/*END OF CONTAINER EMAIL UTAMA*/
+
+
+footer .menufooter li{
+	float:left;
+	padding-left:30px;
+	text-decoration:none;
+	list-style:none;
+	}
+	
+footer .menufooter ul li a{
+	text-decoration:none;
+	}
+
+.containerfooter{
+		background-color:#00FFFB;
+		width:100%;
+		margin-top:-11px;
+}
+footer{
+	width:980px;
+	height:50px;
+	padding:10px 0 0 0;
+	margin:auto;
+	
+	
+}
+
+
+
+
+/*ABOUT*/
+
+.contact{
+	width:1000px;
+	margin:auto;
+	background:#00FFFB;
+	height:30px;
+	
+	}
+
+
+.tambahan {
+    background-color: white;
+    height: 20px;
+    margin: auto;
+    width: 1000px;
+}
+
+.bordermaps{
+	 background-color: #ffffff;
+    height: 635px;
+    margin: auto;
+    width: 1000px;
+	}
+	
+.kotak{
+	
+    display: block;
+    height: 611px;
+    margin: auto;
+    width: 941px;	
+	
+	}
+
+.maps{
+	padding:5px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	
+	}
+#garis{
+	border-bottom: 3px solid #05e1ff;
+    margin: auto;
+    padding-top: 45px;
+    width: 944px;
+	}
+	
+.address{
+	
+	width:1000px;
+	margin:auto;
+	background-color:#FFFFFF;
+}
+
+.address h1{
+	padding:10px 0 0 40px;	
+}
+
+.address h2{
+	padding:10px 0 0 40px;	
+}
+
+.address p{
+	padding:10px 0 0 40px;	
+}
+
+.address .notlp {
+	padding:10px 0 10px 40px;	
+	margin-bottom:30px;
+}
+
+
+
+.finish{
+	background:url(../images/bg.jpg)
+	}
+

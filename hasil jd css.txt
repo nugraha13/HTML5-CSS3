@@ -1,0 +1,95 @@
+* {margin:0;padding:0}
+
+body{background:url(../images/bg.jpg)
+		
+}
+
+.container{
+		width:1000px;
+		margin:auto;
+		background-color:#EFEEEC;
+		margin-top:20px;
+		
+}
+header{
+		overflow:hidden;
+		height:230px;
+}
+
+header img{
+		width:800px;
+	 	height:180px;
+	 	padding:20px 0;
+}
+
+.img{
+float:left;	
+}
+
+
+.login {
+		bottom: 232px;
+		float: right;
+		position: relative;
+		right: 21;
+		margin-top:15px;
+}
+
+.sig img{
+		height: 20px;
+		position: relative;
+		right: -146px;
+		top: -41px;
+		 width: 106px;
+}
+
+menu{
+		background:#DFD000;
+		height:30px;
+}
+menu ul{
+		list-style:none;
+}
+
+menu ul li{
+		float:left;	
+		
+
+}
+
+menu ul li a{
+		text-decoration:none;
+		display:block;
+		border-right:1px solid #00C5CF;
+		padding:0 40px;	
+		line-height:30px;
+		font-size:20px;
+		
+}
+
+menu ul li a:hover{
+background-color:#FBFF72;
+text-decoration:underline;
+}
+
+article {
+overflow:hidden;
+}
+
+
+
+article .utama .left{
+width:300px;
+float:left;	
+
+
+}
+
+article  .utama .right{
+width:600px;
+float:right;	
+}
+
+
+
+

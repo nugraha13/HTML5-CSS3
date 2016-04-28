@@ -1,0 +1,11 @@
+.read {
+    background-color:#CC1806;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    padding: 0 21px;
+    position: relative;
+    right: -147px;
+    text-decoration: none;
+    top: 74px;
+}

@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Menu makanan sehat</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="container">
+    	<header>
+        	<div class="img">
+    			<img src="images/header.jpg">
+            </div>
+          	<div class="login">
+          		<table>
+            	      <tr>
+                	    <td>Masukan Username</td>
+                    	  <td>Masukan password</td>
+                    </tr>
+                    
+                    <tr>
+                        	<td><input class="in" type="text"/></td>
+                            <td><input class="in" type="password" name="" values="" placeholder="" required></td>
+                            <td><input type="submit" value="submit"></td>
+                        </tr>
+                        
+                        <tr>
+                        	
+                            <td><a href="">Lupa password </a></td>
+                          <!--  <a href="" class="read">Sign Up!</a>-->
+                       </tr>
+                        
+                 </table>
+                 <a class="sig" href=""><img src="images/sign.png"></a>
+          	</div>
+         </header>
+         <menu>
+         	<ul>
+            	<li><a href="index.html">Home</a></li>
+                <li><a href="profil.html">Profile</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contct.html">Contact Us</a></li>
+                </ul>
+         </menu>
+         <article>
+       	   <div class="utama">
+            	<div class="left">
+                	<img src="images/gb1.jpg">
+                </div>
+                <div class="right">
+                	<h1>ULTRICIES NUNC ORNARE AT DONEC SIT AMET SUSCIPI.</h1>
+                    <p>Mauris vitae dolor convallis, fringilla. ligula vestibulum, sollicitudin est. Pellentes que habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sodales, tellus a fermentum euismod, justo nibh tellus est, pulvinar non consectetur in, gravida sit amet nisl. Sed fermentum, ante nec ullamcorper tincidunt, mauris felis varius nibh, nec pretium odio turpis sed sapien. Quisque tincidunt mattis ante, in pulvinar felis elementum ac. Donec at magna erat. Cras orci augue, finibus ut aliquet sit amet, congue vehicula turpis. Maecenas at turpis non dolor imperdiet venenatis. Morbi eget lacus sed arcuaaaaaaaaaaaaaaaaaaa.</p>
+                </div>
+           </div>
+           </article>
+              
+             <article> 
+           <div class="utama">
+             
+             <div class="left">
+             <img src="images/gb1.jpg">
+             </div>
+                
+                <div class="right">
+                	<h1>ULTRICIES NUNC ORNARE AT DONEC SIT AMET SUSCIPI.</h1>
+                    <p>Mauris vitae dolor convallis, fringilla. ligula vestibulum, sollicitudin est. Pellentes que habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sodales, tellus a fermentum euismod, justo nibh tellus est, pulvinar non consectetur in, gravida sit amet nisl. Sed fermentum, ante nec ullamcorper tincidunt, mauris felis varius nibh, nec pretium odio turpis sed sapien. Quisque tincidunt mattis ante, in pulvinar felis elementum ac. Donec at magna erat. Cras orci augue, finibus ut aliquet sit amet, congue vehicula turpis. Maecenas at turpis non dolor imperdiet venenatis. Morbi eget lacus sed arcuaaaaaaaaaaaaaaaaaaa.</p>
+             </div>
+            
+            
+            
+            </div>
+            </article>
+         
+         
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+</body>
+</html>
